@@ -1,0 +1,43 @@
+{
+  "name": "grunt-ts-globalizer",
+  "description": "Make TypeScript modules globally available in Node environment.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/felixmosh/grunt-ts-globalizer",
+  "author": "Felix",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/felixmosh/grunt-ts-globalizer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/felixmosh/grunt-ts-globalizer/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/felixmosh/grunt-ts-globalizer/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "files": [
+    "tasks",
+    "LICENSE-MIT"
+  ],
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-clean": "~0.6.0",
+    "grunt-contrib-copy": "~0.7.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}

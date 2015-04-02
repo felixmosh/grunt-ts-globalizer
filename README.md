@@ -2,7 +2,7 @@
 
 [![Built with Grunt](https://img.shields.io/badge/Built%20with-GruntJS-yellow.svg?style=flat)](http://gruntjs.com/)
 [![NPM version](https://img.shields.io/npm/v/grunt-ts-globalizer.svg?style=flat)](https://www.npmjs.com/package/grunt-ts-globalizer)
-[![Build Status](https://travis-ci.org/felixmosh/gulp-ng-json2translate.svg)](https://travis-ci.org/felixmosh/gulp-ng-json2translate)
+[![Build Status](https://travis-ci.org/felixmosh/grunt-ts-globalizer.svg?branch=master)](https://travis-ci.org/felixmosh/grunt-ts-globalizer)
 
 > Make TypeScript modules globally available in Node environment.
 
